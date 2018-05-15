@@ -1,0 +1,8 @@
+{
+  "name": "Assignment2A",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
